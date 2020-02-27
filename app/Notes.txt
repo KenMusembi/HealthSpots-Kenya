@@ -1,1 +1,3 @@
 Building the app while learning about Material Design.
+changing themes
+for compatibility for all devices, add new resources repository
