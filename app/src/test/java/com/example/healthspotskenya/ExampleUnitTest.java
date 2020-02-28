@@ -1,4 +1,4 @@
-package com.example.myapplicationone;
+package com.example.healthspotskenya;
 
 import org.junit.Test;
 
